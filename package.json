@@ -1,0 +1,20 @@
+{
+  "name": "loan_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "loan_app": "bin/index.js"
+  },
+  "author": "Malomo Okikioluwa",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "objects-to-csv": "^1.3.6",
+    "yargs": "^17.6.0"
+  }
+}
